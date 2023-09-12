@@ -6,7 +6,6 @@ Olá, me chamo Renan, sou estudante de Ciência da Computação com interesse no
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/renan-dalmeida-a8a8371ba/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rdalmeidi@outlook.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rdalmeidi/)
 
 ### Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
