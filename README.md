@@ -1,6 +1,6 @@
 
 # Renan D'Almeida
----
+
 Olá, me chamo Renan, sou estudante de Ciência da Computação com interesse no desenvolvimento back-end. Sou apaixonado por tecnologia e estou focado em aprender coisas novas e aprofundar meu conhecimento.
 
 ### Conecte-se comigo
