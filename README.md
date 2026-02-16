@@ -14,6 +14,3 @@ Olá, me chamo Renan, sou estudante de Ciência da Computação com interesse no
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-
-### GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renanDalmeida&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
